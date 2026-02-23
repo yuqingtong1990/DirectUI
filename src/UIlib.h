@@ -105,7 +105,4 @@
 
 #include "Control/UIRichEdit.h"
 #include "Control/UIDateTime.h"
-
-#include "Control/UIActiveX.h"
-#include "Control/UIWebBrowser.h"
 #include "Control/UIGifAnim.h"

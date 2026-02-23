@@ -1,4 +1,4 @@
-#include "StdAfx.h"
+#include "pch.h"
 #include "UILabel.h"
 
 // UMU: DO NOT use "using namespace" in .h file

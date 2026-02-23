@@ -2,6 +2,10 @@
 #Author Qi Gao(monkgau@gmail.com)
 #Created: 2012/09/16
 
+cmake_minimum_required(VERSION 3.28)
+
+project(DirectUI VERSION 1.0.0)
+
 aux_source_directory(${CMAKE_CURRENT_SOURCE_DIR} root_src)
 aux_source_directory(${CMAKE_CURRENT_SOURCE_DIR}/control control_src)
 aux_source_directory(${CMAKE_CURRENT_SOURCE_DIR}/core core_src)
