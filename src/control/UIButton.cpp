@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "UIButton.h"
 
-namespace DuiLib
+namespace DirectUI
 {
 	CButtonUI::CButtonUI()
 		: m_uButtonState(0)

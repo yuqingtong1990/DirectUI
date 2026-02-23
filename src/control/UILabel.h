@@ -18,7 +18,7 @@ using Gdiplus::GdiplusStartupInput;
 #endif
 
 
-namespace DuiLib
+namespace DirectUI
 {
 	class DUILIB_API CLabelUI : public CControlUI
 	{

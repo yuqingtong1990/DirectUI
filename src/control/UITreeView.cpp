@@ -2,7 +2,7 @@
 #include "UITreeView.h"
 
 #pragma warning( disable: 4251 )
-namespace DuiLib
+namespace DirectUI
 {
 	//************************************
 	// º¯ÊýÃû³Æ: CTreeNodeUI

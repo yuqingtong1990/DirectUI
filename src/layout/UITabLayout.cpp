@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "UITabLayout.h"
 
-namespace DuiLib
+namespace DirectUI
 {
 	CTabLayoutUI::CTabLayoutUI() : m_iCurSel(-1)
 	{

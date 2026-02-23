@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "UIOption.h"
 
-namespace DuiLib
+namespace DirectUI
 {
 	COptionUI::COptionUI() : m_bSelected(false), m_dwSelectedBkColor(0), m_dwSelectedTextColor(0)
 	{

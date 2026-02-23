@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "UIChildLayout.h"
 
-namespace DuiLib
+namespace DirectUI
 {
 	CChildLayoutUI::CChildLayoutUI()
 	{

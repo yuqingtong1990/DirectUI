@@ -3,7 +3,7 @@
 
 #pragma once
 
-namespace DuiLib
+namespace DirectUI
 {
 	class DUILIB_API CChildLayoutUI : public CContainerUI
 	{

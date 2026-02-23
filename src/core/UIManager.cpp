@@ -9,7 +9,7 @@ typedef DWORD ZRESULT;
 extern HZIP OpenZipU(void *z,unsigned int len,DWORD flags);
 extern ZRESULT CloseZipU(HZIP hz);
 
-namespace DuiLib {
+namespace DirectUI {
 
 /////////////////////////////////////////////////////////////////////////////////////
 //

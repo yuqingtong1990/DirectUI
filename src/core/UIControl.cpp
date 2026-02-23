@@ -1,6 +1,6 @@
 ﻿#include "pch.h"
 
-namespace DuiLib {
+namespace DirectUI {
 
 CControlUI::CControlUI() : 
 m_pManager(NULL), 

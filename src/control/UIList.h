@@ -5,7 +5,7 @@
 #include "Layout/UIVerticalLayout.h"
 #include "Layout/UIHorizontalLayout.h"
 
-namespace DuiLib {
+namespace DirectUI {
 /////////////////////////////////////////////////////////////////////////////////////
 //
 

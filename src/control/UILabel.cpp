@@ -6,7 +6,7 @@
 using namespace Gdiplus;
 #endif
 
-namespace DuiLib
+namespace DirectUI
 {
 	Color ARGB2Color(DWORD dwColor)
 	{

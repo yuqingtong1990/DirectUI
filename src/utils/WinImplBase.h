@@ -1,7 +1,7 @@
 #ifndef WIN_IMPL_BASE_HPP
 #define WIN_IMPL_BASE_HPP
 
-namespace DuiLib
+namespace DirectUI
 {
 
 	enum UILIB_RESOURCETYPE

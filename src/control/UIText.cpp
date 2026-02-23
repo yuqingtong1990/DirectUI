@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "UIText.h"
 
-namespace DuiLib
+namespace DirectUI
 {
 	CTextUI::CTextUI() : m_nLinks(0), m_nHoverLink(-1)
 	{

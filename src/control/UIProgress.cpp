@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "UIProgress.h"
 
-namespace DuiLib
+namespace DirectUI
 {
 	CProgressUI::CProgressUI() : m_bHorizontal(true), m_nMin(0), m_nMax(100), m_nValue(0)
 	{

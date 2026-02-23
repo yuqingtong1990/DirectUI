@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "UIDateTime.h"
 
-namespace DuiLib
+namespace DirectUI
 {
 	//CDateTimeUI::m_nDTUpdateFlag
 #define DT_NONE   0

@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "UIHorizontalLayout.h"
 
-namespace DuiLib
+namespace DirectUI
 {
 	CHorizontalLayoutUI::CHorizontalLayoutUI() : m_iSepWidth(0), m_uButtonState(0), m_bImmMode(false)
 	{

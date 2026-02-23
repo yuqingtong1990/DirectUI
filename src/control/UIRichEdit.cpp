@@ -6,7 +6,7 @@
 // These constants are for backward compatibility. They are the 
 // sizes used for initialization and reset in RichEdit 1.0
 
-namespace DuiLib {
+namespace DirectUI {
 
 const LONG cInitTextMax = (32 * 1024) - 1;
 

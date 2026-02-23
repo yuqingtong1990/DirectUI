@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "UICheckBox.h"
 
-namespace DuiLib
+namespace DirectUI
 {
 	LPCTSTR CCheckBoxUI::GetClass() const
 	{

@@ -6,7 +6,7 @@ using namespace std;
 
 #pragma once
 
-namespace DuiLib
+namespace DirectUI
 {
 	class CTreeViewUI;
 	class CCheckBoxUI;

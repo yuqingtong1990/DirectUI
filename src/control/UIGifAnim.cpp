@@ -41,7 +41,7 @@ extern ZRESULT FindZipItemW(HZIP hz, const TCHAR *name, bool ic, int *index, ZIP
 extern ZRESULT UnzipItem(HZIP hz, int index, void *dst, unsigned int len, DWORD flags);
 ///////////////////////////////////////////////////////////////////////////////////////
 
-namespace DuiLib
+namespace DirectUI
 {
 
 	CGifAnimUI::CGifAnimUI(void)

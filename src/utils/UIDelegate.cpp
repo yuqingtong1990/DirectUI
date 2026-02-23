@@ -1,6 +1,6 @@
 #include "pch.h"
 
-namespace DuiLib {
+namespace DirectUI {
 
 CDelegateBase::CDelegateBase(void* pObject, void* pFn) 
 {

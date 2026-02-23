@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "UISlider.h"
 
-namespace DuiLib
+namespace DirectUI
 {
 	CSliderUI::CSliderUI() : m_uButtonState(0), m_nStep(1), m_bImmMode(false)
 	{

@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "UIVerticalLayout.h"
 
-namespace DuiLib
+namespace DirectUI
 {
 	CVerticalLayoutUI::CVerticalLayoutUI() : m_iSepHeight(0), m_uButtonState(0), m_bImmMode(false)
 	{

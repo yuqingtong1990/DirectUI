@@ -1,6 +1,6 @@
 #include "pch.h"
 
-namespace DuiLib {
+namespace DirectUI {
 
 CDialogBuilder::CDialogBuilder() : m_pCallback(NULL), m_pstrtype(NULL)
 {

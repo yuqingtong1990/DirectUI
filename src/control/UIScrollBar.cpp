@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "UIScrollBar.h"
 
-namespace DuiLib {
+namespace DirectUI {
 
 CScrollBarUI::CScrollBarUI() :
 	m_bHorizontal(false),

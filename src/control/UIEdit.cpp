@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "UIEdit.h"
 
-namespace DuiLib
+namespace DirectUI
 {
 	class CEditWnd : public CWindowWnd
 	{
